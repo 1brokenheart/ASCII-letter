@@ -236,7 +236,5 @@ ZZZZZ"""
 #create a dictionary called letters that containes all the letters of the alphabet.
 letters = {'a':letter_a, 'b':letter_b, 'c':letter_c, 'd':letter_d, 'e':letter_e, 'f':letter_f, 'g':letter_g, 'h':letter_h, 'i':letter_i, 'j':letter_j, 'k':letter_k, 'l':letter_l, 'm':letter_m, 'n':letter_n, 'o':letter_o, 'p':letter_p, 'q':letter_q, 'r':letter_r, 's':letter_s, 't':letter_t, 'u':letter_u, 'v':letter_v, 'w':letter_w, 'x':letter_x, 'y':letter_y, 'z':letter_z}
 
-#name = (letters['a'], '\n', letters['n'], '\n', letters['g'],'\n', letters['e'], '\n', letters['l'], '\n', letters['a'])
-
 #print the name using the ascii and leaving 1 space in between each letter.
 print(letters['a'], '\n', letters['n'], '\n', letters['g'],'\n', letters['e'], '\n', letters['l'], '\n', letters['a'])
